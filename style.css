@@ -87,7 +87,13 @@ body {
   font-size: 14px;
   color: #2e86c1;
 }
-
+.contact-info a {
+  color: #b8bcc0af;
+  text-decoration: none;
+}
+.contact-info a:hover {
+  color: #f9e79f;
+}
 .skills ul {
   padding-top: 1rem;
 }
