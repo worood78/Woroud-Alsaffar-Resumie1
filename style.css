@@ -200,6 +200,9 @@ body {
 .project {
   color: #9f3535;
 }
+.cert {
+  color: #9f3535;
+}
 
 /* Media queries */
 @media screen and (max-width: 780px) {
